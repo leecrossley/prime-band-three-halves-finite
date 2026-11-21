@@ -1,5 +1,7 @@
 # The three-halves prime deficit through 100,000
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24410830.svg)](https://doi.org/10.5281/zenodo.24410830)
+
 At dilation $b=3/2$, the weighted sum of primes between $y$ and $2.25y$ is strictly below its predicted size for every real $y$ up to 100,000. This is proved outright by exact arithmetic, with no hypothesis.
 
 It is a statement about a finite range only. A companion result shows that, assuming the Riemann hypothesis and rational linear independence of the distinct positive ordinates of the nontrivial zeta zeros, the sign changes arbitrarily far out, so positivity on this range does not persist for all $y$ under those hypotheses.
