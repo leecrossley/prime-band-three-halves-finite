@@ -40,4 +40,4 @@ This checks the [SHA-256 manifest](SHA256SUMS), reruns the arithmetic and compar
 
 ## Related result
 
-[Conditional oscillation at the same dilation](https://github.com/leecrossley/prime-band-three-halves-oscillation/tree/v1.0.0)
+[Conditional oscillation at the same dilation](https://github.com/leecrossley/prime-band-three-halves-oscillation/tree/v1.0.1)
